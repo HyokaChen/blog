@@ -13,6 +13,8 @@ before_install:
 # 替换为刚才生成的解密信息
 - openssl aes-256-cbc -K $encrypted_99a02cfc8694_key -iv $encrypted_99a02cfc8694_iv
   -in .travis/ci_rsa.enc -out ~/.ssh/ci_rsa -d
+- openssl aes-256-cbc -K $encrypted_99a02cfc8694_key -iv $encrypted_99a02cfc8694_iv
+  -in _config.yml.enc -out _config.yml -d
 # 改变文件权限
 - chmod 600 ~/.ssh/ci_rsa
 # 配置 ssh
@@ -22,6 +24,8 @@ before_install:
 # 配置 git 替换为自己的信息
 - git config --global user.name 'emptychan'
 - git config --global user.email chen19941018@live.com
+# 将 GitHub Token 替换到 next.yml 中
+- sed -i "s/CJH_TOKEN/${CJH_TOKEN}/" _config.yml
 # 安装依赖
 install:
 - npm install hexo-cli -g
