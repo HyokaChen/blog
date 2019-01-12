@@ -1,0 +1,13 @@
+<% if (item.cover_image){ %>
+  <div class="col-12 mt-2">
+	<center><img class="img-fluid project-img" src="<%- config.root %><%- item.cover_image %>" alt="<%- item.title || "Untitled" %>"></center>
+  </div>
+<% } %>
+<div class="col-12 col-lg-8 offset-lg-2 mt-2">
+	<div class="post-page text-center mt-4">
+		<h1><%- item.title || theme.default_post_title || "Untitled" %></h1>
+	</div>
+	<div class="post-page mt-2">
+	  <%- item.content %>
+	</div>
+</div>

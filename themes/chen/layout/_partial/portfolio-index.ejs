@@ -1,0 +1,12 @@
+<div class="col-lg-6 col-md-6 col-12 mt-2 mb-4">
+  <div >
+    <a href="<%- config.root %><%- item.path %>">
+      <img class="img-fluid portfolio-img" src="<%- config.root %><%- item.cover_image || theme.default_cover_image %>" alt="<%- item.title || theme.default_post_title || "Untitled" %>">
+    </a>
+  </div>
+  <div class="post-details text-center mt-3">
+    <a href="<%- config.root %><%- item.path %>"><%- item.title %></a>
+	<hr/>
+    <span class="date"><%- item.date.format('MMM DD YYYY') || "Untitled" %></span>
+  </div>
+</div>

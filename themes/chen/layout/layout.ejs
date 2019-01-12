@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Head tag -->
+  <%- partial('_partial/head') %>
+
+  <body>
+	<div class="container my-4">
+	  <!-- Header -->
+      <%- partial('_partial/header') %>
+	</div>
+ 	<div class="container-fluid navbar-container mb-sm-3">
+  		<div class="row">
+  			<%- body %>
+  		</div>
+  	</div>
+	<footer class="text-center mt-5 py-5">
+		<a href="https://twitter.com/?lang=en" target="_blank"><i class="fa fa-twitter mr-4"></i></a>
+		<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook mr-4"></i></a>
+		<a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram mr-4"></i></a>
+		<a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin mr-4"></i></a>
+	</footer>
+    <!-- After footer scripts -->
+    <%- partial('_partial/footer') %>
+	<!--<%- partial('_partial/after_footer') %>-->
+  </body>
+</html>
