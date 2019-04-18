@@ -3,7 +3,7 @@ title: Sound! Euphonium
 date: 2017-06-04 18:12:50
 cover_image: images/soundeuphonium.jpg
 ---
-Sound! Euphonium (響け! ユーフォニアム) is a Japanese novel series by Ayano Takeda. The story takes place in Uji, Kyoto, and focuses on the Kitauji High School Music Club, which is steadily improving thanks to the newly appointed adviser's strict instruction. A manga adaptation illustrated by Hami was serialized on the Kono Manga ga Sugoi! Web website. A 13-episode anime adaptation, produced by Kyoto Animation and directed by Tatsuya Ishihara, aired in Japan between April and July 2015. An animated film premiered in theaters in April 2016, while a second season of the anime premiered on October 6, 2016.
+Sound! Euphonium (響け! ユーフォニアム) is a Japanese novel series by Ayano Takeda. The story takes place in Uji, Kyoto, and focuses on the Kitauji High School Music Club, which is steadily improving thanks to the newly appointed adviser's strict instruction. A manga adaptation illustrated by Hami was serialized on the Kono Manga ga Sugoi! Web website. A 13-episode anime adaptation, produced by Kyoto Animation and directed by Tatsuya Ishihara, aired in Japan between April and July 2015 and 2016. An animated theatrical film titled Liz and the Blue Bird premiered in April 2018, focusing on two characters from Sound! Euphonium. Another film adaptation will premiere in April 2019.
 
 <center>![Sound! Euphonium](Sound-Euphonium/01.jpg)</center>
 
@@ -32,7 +32,7 @@ A second season of the television series began airing on October 6, 2016. The op
 
 <center>![Sound! Euphonium](Sound-Euphonium/04.jpg)</center>
 
-Two new animated films are scheduled for release in 2018. The first film directed by Naoko Yamada and written by Reiko Yoshida, titled "Liz und ein Blauer Vogel" (リズと青い鳥 Liz to Aoi Tori, lit. "Liz and the Blue Bird"), focuses on Nozomi and Mizore and is scheduled for release on April 21, 2018. The second film directed by Tatsuya Ishihara focuses on Kumiko as a student in her second year.
+Two new animated films were scheduled for release in 2018. The first film directed by Naoko Yamada and written by Reiko Yoshida, titled Liz and the Blue Bird (リズと青い鳥 Liz to Aoi Tori), focuses on Nozomi and Mizore and premiered on April 21, 2018. Theatrical distributor Eleven Arts released the film in theaters on November 9, 2018 in the United States. Shout! Factory released it on home video on March 5, 2019. The second film, titled Gekijō-ban Hibike! Euphonium: Chikai no Finale (劇場版 響け！ユーフォニアム～誓いのフィナーレ～, lit. "Sound! Euphonium the Movie: Oath's Finale") and originally scheduled for release in 2018, is directed by Tatsuya Ishihara and focuses on Kumiko as a student in her second year. It will premiere on April 19, 2019.
 
 <center>![Sound! Euphonium](Sound-Euphonium/05.jpg)</center>
 
