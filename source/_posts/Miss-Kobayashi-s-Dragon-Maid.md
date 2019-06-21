@@ -16,10 +16,10 @@ As the office worker Kobayashi gets ready for work, she is greeted by a large dr
 
 ### Video
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Miss%20Kobayashi%27s%20Dragon%20Maid/7427278_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Miss%20Kobayashi%27s%20Dragon%20Maid/01.jpg" %}
+{% dplayer "url=http://lc-iKOh1aFz.cn-e1.lcfile.com/935928d3629fa9d0bac3/Miss-Kobayashi-s-Dragon-Maid-pv1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-iKOh1aFz.cn-e1.lcfile.com/012d26721ac3fcef5e8a/Miss-Kobayashi-s-Dragon-Maid-pv1.jpg" %}
 <center>Miss Kobayashi's Dragon Maid PV 1</center>
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Miss%20Kobayashi%27s%20Dragon%20Maid/7744502_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Miss%20Kobayashi%27s%20Dragon%20Maid/02.jpg" %}
+{% dplayer "url=http://lc-iKOh1aFz.cn-e1.lcfile.com/b4c1219f36062c17068a/Miss-Kobayashi-s-Dragon-Maid-pv2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-iKOh1aFz.cn-e1.lcfile.com/35fdef6cf744b01c2842/Miss-Kobayashi-s-Dragon-Maid-pv2.jpg" %}
 <center>Miss Kobayashi's Dragon Maid PV 2</center>
 
 ### Anime
