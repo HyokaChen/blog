@@ -37,7 +37,7 @@ The story revolves around Auto Memory Dolls (自動手記人形 Jidō Shuki Ning
 {% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/0acb97813bd2665e835c/Violet-Evergarden-pv4.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/33e00ca2a2775c90148f/Violet-Evergarden-pv4.jpg" %}
 <center>Violet Evergarden PV 4</center>
 
-{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/dd6fec816d17f14134c1/Violet-Evergarden-2020-pv.flv"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/6f66aa4938e87af991c4/Violet-Evergarden-2020-pv.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/7f81b993e1f87374d8d1/Violet-Evergarden-2020-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/6f66aa4938e87af991c4/Violet-Evergarden-2020-pv.jpg" %}
 <center>Violet Evergarden 2020 PV</center>
 
 ### Anime

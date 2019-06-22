@@ -23,10 +23,10 @@ The Kitauji high school concert band club had at one time participated in nation
 {% dplayer "url=http://lc-iKOh1aFz.cn-e1.lcfile.com/515bba424047d5eda4fd/Sound-Euphonium2-pv2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/3d49e35d23e7921dbe4f/Sound-Euphonium2-pv2.jpg" %}
 <center>Sound! Euphonium 2 PV2</center>
 
-{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/1f3704382241efb0fc2d/Liz-and-the-Bird-pv.flv"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/8814893415e7c8d33f7c/Liz-and-the-Bird-pv.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/d4f4abcfac88c62a7950/Liz-and-the-Bird-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/8814893415e7c8d33f7c/Liz-and-the-Bird-pv.jpg" %}
 <center>Liz and the Blud Bird PV</center>
 
-{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/15d3a68e6474ec72d22e/Oath%27s-Finale-pv.flv"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/e03bc249cfc3d50a9db8/Oath%27s-Finale-pv.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/b611650fbd56d433f355/Oath%27s-Finale-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/e03bc249cfc3d50a9db8/Oath%27s-Finale-pv.jpg" %}
 <center>Oath's Finale PV</center>
 
 ### Anime
