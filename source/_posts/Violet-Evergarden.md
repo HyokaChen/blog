@@ -49,4 +49,4 @@ When the Violet Evergarden Gaiden light novel was released, the jacket band anno
 
 <center>![Violet Evergarden](Violet-Evergarden/05.jpg)</center>
 
-<center>![Violet Evergarden](Violet-Evergarden/06.jpg)</center>
+<center>![Violet Evergarden](Violet-Evergarden/06.png)</center>
