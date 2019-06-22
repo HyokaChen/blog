@@ -15,26 +15,26 @@ The story revolves around Auto Memory Dolls (自動手記人形 Jidō Shuki Ning
 <center>![Violet Evergarden](Violet-Evergarden/03.jpg)</center>
 
 ### Video
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Violet-Evergarden/6939067_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Violet-Evergarden/00.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/2ecec4a2d50db16b25af/Violet-Evergarden-cm0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/5c0b32de569a222b1fcd/Violet-Evergarden-cm0.jpg" %}
 <center>Violet Evergarden CM 0</center>
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Violet-Evergarden/9498233_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Violet-Evergarden/01.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/8a45183114c8b4853387/Violet-Evergarden-cm1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/076b954d725e99338ade/Violet-Evergarden-cm1.jpg" %}
 <center>Violet Evergarden CM 1</center>
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Violet-Evergarden/9498233_2_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Violet-Evergarden/02.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/2670b8201963cab25b6f/Violet-Evergarden-cm2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/80ff29aaaf6909c149b6/Violet-Evergarden-cm2.jpg" %}
 <center>Violet Evergarden CM 2</center>
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Violet-Evergarden/11322066_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Violet-Evergarden/03.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/6d4d5e6b68578c2f99fc/Violet-Evergarden-pv1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/8fb5c636756d36a9ba2d/Violet-Evergarden-pv1.jpg" %}
 <center>Violet Evergarden PV 1</center>
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Violet-Evergarden/13233284_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Violet-Evergarden/04.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/58ecd4cc509ddc2f424c/Violet-Evergarden-pv2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/9cfae916094b61d8e14f/Violet-Evergarden-pv2.jpg" %}
 <center>Violet Evergarden PV 2</center>
 
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Violet-Evergarden/15661572_1_1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Violet-Evergarden/05.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/ef6f56466c328684e197/Violet-Evergarden-pv3.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/8be59508000862efa73c/Violet-Evergarden-pv3.jpg" %}
 <center>Violet Evergarden PV 3</center>
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Violet-Evergarden/6228015_1_7.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Violet-Evergarden/06.jpg" %}
+{% dplayer "url=http://lc-ikoh1afz.cn-e1.lcfile.com/0acb97813bd2665e835c/Violet-Evergarden-pv4.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/33e00ca2a2775c90148f/Violet-Evergarden-pv4.jpg" %}
 <center>Violet Evergarden PV 4</center>
 
 ### Anime

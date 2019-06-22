@@ -14,13 +14,13 @@ The Kitauji high school concert band club had at one time participated in nation
 <center>![Sound! Euphonium](Sound-Euphonium/02.jpg)</center>
 
 ### Video
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Sound-Euphonium/1836587_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Sound-Euphonium/01.jpg" %}
+{% dplayer "url=http://lc-iKOh1aFz.cn-e1.lcfile.com/6e846392b50961e1c8f7/Sound-Euphonium-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-iKOh1aFz.cn-e1.lcfile.com/c7c1895db65b54949d62/Sound-Euphonium-pv.jpg" %}
 <center>Sound! Euphonium PV</center>
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Sound-Euphonium/5774139_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Sound-Euphonium/04.jpg" %}
+{% dplayer "url=http://lc-iKOh1aFz.cn-e1.lcfile.com/dbec158ba74a75e5e30b/Sound-Euphonium2-pv1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/a127d55ce0480394d284/Sound-Euphonium2-pv1.jpg" %}
 <center>Sound! Euphonium 2 PV1</center>
 
-{% dplayer "url=http://oqxa4mkqj.bkt.clouddn.com/video/Sound-Euphonium/6228015_1_0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://oqxa4mkqj.bkt.clouddn.com/back/Sound-Euphonium/02.jpg" %}
+{% dplayer "url=http://lc-iKOh1aFz.cn-e1.lcfile.com/515bba424047d5eda4fd/Sound-Euphonium2-pv2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-ikoh1afz.cn-e1.lcfile.com/3d49e35d23e7921dbe4f/Sound-Euphonium2-pv2.jpg" %}
 <center>Sound! Euphonium 2 PV2</center>
 
 ### Anime
