@@ -13,10 +13,10 @@ The story follows Mitsuyoshi Tada, a boy who has never known love. He is taking 
 <center>![Tada Never Falls in Love](Tada-Never-Falls-in-Love/02.jpg)</center>
 
 ### Video
-{% dplayer "url=http://lc-iKOh1aFz.cn-e1.lcfile.com/2630ea3f44fe435a96af/Tada-Never-Falls-in-Love-pv1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-iKOh1aFz.cn-e1.lcfile.com/63d77523a079cbd9c57b/Tada-Never-Falls-in-Love-pv1.jpg" %}
+{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/26a16f260bb84bfebece/Tada-Never-Falls-in-Love-pv1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/150c262a79b6457808b6/Tada-Never-Falls-in-Love-pv1.jpg" %}
 <center>Tada Never Falls in Love PV 1</center>
 
-{% dplayer "url=http://lc-iKOh1aFz.cn-e1.lcfile.com/30466c4def0214d0246f/Tada-Never-Falls-in-Love-pv2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=http://lc-iKOh1aFz.cn-e1.lcfile.com/3c3742e1ae205a80abd1/Tada-Never-Falls-in-Love-pv2.jpg" %}
+{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/eeeb47bee2b87c1e34f8/Tada-Never-Falls-in-Love-pv2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/b7bea5c7692ba51d6ec6/Tada-Never-Falls-in-Love-pv2.jpg" %}
 <center>Tada Never Falls in Love PV 2</center>
 
 ### Anime
