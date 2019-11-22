@@ -13,7 +13,7 @@ At the request of his older sister, student Hōtarō Oreki joins Kamiyama High S
 <center>![Hyōka](Hyōka/02.jpg)</center>
 
 ### Video
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/a3acb7315e48900483dd/Hy%C5%8Dka-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/3adb6d6042a1461a64d5/Hy%C5%8Dka-pv.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574429820/animation/Hy%C5%8Dka/Hy%C5%8Dka-pv_hwxmli.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574429814/animation/Hy%C5%8Dka/Hy%C5%8Dka-pv_cj3fhp.bmp" %}
 <center>Hyōka PV</center>
 
 ### Anime

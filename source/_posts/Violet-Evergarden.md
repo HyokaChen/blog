@@ -15,29 +15,29 @@ The story revolves around Auto Memory Dolls (自動手記人形 Jidō Shuki Ning
 <center>![Violet Evergarden](Violet-Evergarden/03.jpg)</center>
 
 ### Video
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/fd87b81a855e2d03d092/Violet-Evergarden-cm0.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/70c9dca546043650e391/Violet-Evergarden-cm0.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430083/animation/Violet-Evergarden/Violet-Evergarden-cm0_hl7ln1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574430081/animation/Violet-Evergarden/Violet-Evergarden-cm0_e6yi7s.bmp" %}
 <center>Violet Evergarden CM 0</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/7d318d58ab2e71d99de6/Violet-Evergarden-cm1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/e54146d7532468a65a57/Violet-Evergarden-cm1.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430082/animation/Violet-Evergarden/Violet-Evergarden-cm1_pkz05o.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574430084/animation/Violet-Evergarden/Violet-Evergarden-cm1_qxxowr.bmp" %}
 <center>Violet Evergarden CM 1</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/62d07f3611c04992a9b1/Violet-Evergarden-cm2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/05173716f949d7de8208/Violet-Evergarden-cm2.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430087/animation/Violet-Evergarden/Violet-Evergarden-cm2_mnpjbt.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574430083/animation/Violet-Evergarden/Violet-Evergarden-cm2_uxrfth.bmp" %}
 <center>Violet Evergarden CM 2</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/5e82f84dacfbf47b6fbc/Violet-Evergarden-pv1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/0ac216e42dad3083768f/Violet-Evergarden-pv1.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430086/animation/Violet-Evergarden/Violet-Evergarden-pv1_wybd8u.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574430084/animation/Violet-Evergarden/Violet-Evergarden-pv1_kvjgri.bmp" %}
 <center>Violet Evergarden PV 1</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/81af7dcaa990f1ab8236/Violet-Evergarden-pv2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/6742e2facd5d672b5faf/Violet-Evergarden-pv2.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430086/animation/Violet-Evergarden/Violet-Evergarden-pv2_pflqxp.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574430086/animation/Violet-Evergarden/Violet-Evergarden-pv2_tqzbmr.bmp" %}
 <center>Violet Evergarden PV 2</center>
 
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/fc9d17f17ace9a8ccae4/Violet-Evergarden-pv3.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/3c122084d5fcd3d6edef/Violet-Evergarden-pv3.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430090/animation/Violet-Evergarden/Violet-Evergarden-pv3_tdmwra.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574430086/animation/Violet-Evergarden/Violet-Evergarden-pv3_ozr767.bmp" %}
 <center>Violet Evergarden PV 3</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/78afbb8144898d0f2e8f/Violet-Evergarden-pv4.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/c3259dfd7f0208b214d8/Violet-Evergarden-pv4.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430091/animation/Violet-Evergarden/Violet-Evergarden-pv4_mdx8cr.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574430103/animation/Violet-Evergarden/Violet-Evergarden-pv4_nopx2b.bmp" %}
 <center>Violet Evergarden PV 4</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/3d6b8404ee0af4b62350/Violet-Evergarden-2020-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/ea470bb7b2f965b45bfb/Violet-Evergarden-2020-pv.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430082/animation/Violet-Evergarden/Violet-Evergarden-2020-pv_qsjccv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574430082/animation/Violet-Evergarden/Violet-Evergarden-2020-pv_tdc6lh.bmp" %}
 <center>Violet Evergarden 2020 PV</center>
 
 ### Anime

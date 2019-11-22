@@ -14,19 +14,19 @@ The Kitauji high school concert band club had at one time participated in nation
 <center>![Sound! Euphonium](Sound-Euphonium/02.jpg)</center>
 
 ### Video
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/1a00ba8e9b34c481b9c0/Sound-Euphonium-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/25aba61fd572b7d06214/Sound-Euphonium-pv.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574429974/animation/Sound-Euphonium/Sound-Euphonium-pv_rrvfjt.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574429973/animation/Sound-Euphonium/Sound-Euphonium-pv_dyk7nb.bmp" %}
 <center>Sound! Euphonium PV</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/71383d53c2bcbe04c659/Sound-Euphonium2-pv1.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/63bc42df178af59878d8/Sound-Euphonium2-pv1.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574429975/animation/Sound-Euphonium/Sound-Euphonium2-pv1_yciiti.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574429971/animation/Sound-Euphonium/Sound-Euphonium2-pv1_et6xvx.bmp" %}
 <center>Sound! Euphonium 2 PV1</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/4c9e1273b51f6316f428/Sound-Euphonium2-pv2.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/42e98930f8475cdfed1e/Sound-Euphonium2-pv2.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574429977/animation/Sound-Euphonium/Sound-Euphonium2-pv2_t9hmfz.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574429972/animation/Sound-Euphonium/Sound-Euphonium2-pv2_lkn052.bmp" %}
 <center>Sound! Euphonium 2 PV2</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/a91e11dc5d119eefdec0/Liz-and-the-Bird-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/60807611b1e9b1af90ff/Liz-and-the-Bird-pv.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574430012/animation/Sound-Euphonium/Liz-and-the-Bird-pv_jnq1yh.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574429991/animation/Sound-Euphonium/Liz-and-the-Bird-pv_i1euyj.bmp" %}
 <center>Liz and the Blud Bird PV</center>
 
-{% dplayer "url=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/a2d3ded6f076a08a0717/Oath%27s-Finale-pv.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://avos-cloud-tenhoafie3b1.s3.amazonaws.com/2d948aa84df02868c876/Oath%27s-Finale-pv.jpg" %}
+{% dplayer "url=https://res.cloudinary.com/emptychan/video/upload/v1574429971/animation/Sound-Euphonium/Oath_s-Finale-pv_cpd8p6.mp4"  "theme=#FADFA3" "autoplay=false" "pic=https://res.cloudinary.com/emptychan/image/upload/v1574429970/animation/Sound-Euphonium/Oath_s-Finale-pv_wh1j9e.bmp" %}
 <center>Oath's Finale PV</center>
 
 ### Anime
