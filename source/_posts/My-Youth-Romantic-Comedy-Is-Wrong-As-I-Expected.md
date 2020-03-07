@@ -56,4 +56,4 @@ On April 2, 2019, Sentai Filmworks confirmed on Twitter that the series will rec
 
 <center>![My-Youth-Romantic-Comedy-Is-Wrong-As-I-Expected](My-Youth-Romantic-Comedy-Is-Wrong-As-I-Expected/05.jpg)</center>
 
-<center>![My-Youth-Romantic-Comedy-Is-Wrong-As-I-Expected](My-Youth-Romantic-Comedy-Is-Wrong-As-I-Expected/06.jpg)</center>
+<center>![My-Youth-Romantic-Comedy-Is-Wrong-As-I-Expected](My-Youth-Romantic-Comedy-Is-Wrong-As-I-Expected/06.jpeg)</center>
