@@ -1,7 +1,7 @@
 ---
 title: Hyōka
 date: 2017-06-02 15:09:15
-cover_image: images/hyōka.jpg
+cover_image: images/hyoka.jpg
 ---
 Hyōka (氷菓) is a 2001 Japanese mystery novel by Honobu Yonezawa. It is the first volume of the Classic Literature Club (古典部) series. Five additional volumes have been published between 2002 and 2016. A manga adaptation drawn by Taskohna began serialization in the March 2012 issue of Kadokawa Shoten's Shōnen Ace. A 22-episode anime adaptation produced by Kyoto Animation and directed by Yasuhiro Takemoto aired from April 22 to September 16, 2012. A live-action film directed by Mari Asato and starring Kento Yamazaki and Alice Hirose was released on November 3, 2017.
 
