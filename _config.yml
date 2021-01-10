@@ -69,7 +69,7 @@ theme: chen
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://CJH_TOKEN@github.com/EmptyChan/emptychan.github.io.git
+  repo: https://CJH_TOKEN@github.com/EmptyChan/hyokachen.github.io.git
   branch: master
   
 
