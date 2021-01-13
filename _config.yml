@@ -72,6 +72,7 @@ deploy:
   repo: https://CJH_TOKEN@github.com/HyokaChen/hyokachen.github.io.git
   branch: master
 
+
 # heat
 # 博文压缩
 neat_enable: true
